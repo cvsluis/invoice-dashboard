@@ -1,5 +1,29 @@
-## Next.js App Router Course - Starter
+## Next.js Invoice Tracker
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project was built following the [Next.js App Router Course](https://nextjs.org/learn/dashboard-app).
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Purpose
+
+To learn the main features of the Next.js framework by building a full-stack web application.
+
+## Features
+- Dashboard pages that are protected by authentication.
+- The ability for users to add, edit, and delete invoices.
+- Search and Pagination on Invoice dashboard.
+- Improved initial loading performance by implementing streaming.
+
+## Final Product
+
+View live demo [here](https://nextjs-dashboard-five-jade-76.vercel.app/dashboard)!
+
+**Dashboard Page**
+
+!["Screenshot of Dashboard Page"](./docs/dashboard.png)
+
+**Invoices Page**
+
+!["Screenshot of Invoices Page"](./docs/invoices.png)
+
+**Customers Page**
+
+!["Screenshot of Dashboard Page"](./docs/customers.png)
